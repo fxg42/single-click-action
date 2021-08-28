@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <windowclass name="power_action_mini" merge="join">
+    <sheetdata>
+      <button_poweraction_mini name="button" merge="delete" />
+      <button_poweraction_mini_debounced name="button" />
+    </sheetdata>
+  </windowclass>
+</root>
