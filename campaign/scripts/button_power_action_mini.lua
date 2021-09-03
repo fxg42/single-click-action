@@ -3,7 +3,7 @@ local WAIT_PERIOD = 0.5; -- approx. 500 milliseconds
 function action(draginfo)
   if lastInvokeTime == nil or (os.clock() - lastInvokeTime > WAIT_PERIOD) then
     lastInvokeTime = os.clock();
-    PowerManager.performPCPowerAction(draginfo, window.getDatabaseNode());
+    super.action(draginfo);
   end
 end
 
