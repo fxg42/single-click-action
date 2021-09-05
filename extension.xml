@@ -3,16 +3,16 @@
 <root version="3.0">
   <properties>
     <name>Single Click Action 5e Extension</name>
-    <version>0.2</version>
+    <version>0.2.1</version>
     <author>fxg42</author>
     <description>Prevent double-clicks on Power Action button clicks</description>
     <loadorder>100</loadorder>
   </properties>
 
-  <announcement text="Single Click Action v0.2" font="emotefont" icon="raven"/>
+  <announcement text="Single Click Action v0.2.1" font="emotefont" icon="raven"/>
 
   <base>
     <icon name="raven" file="raven-circ-30x30.png"/>
-    <script name="SingleClickManager" file="campaign/scripts/single_click_manager.lua"/>
+    <script name="SingleClickManager" file="scripts/single_click_manager.lua"/>
   </base>
 </root>
