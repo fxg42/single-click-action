@@ -13,5 +13,5 @@ during combat.
 
 ### Links
 
-- Forge: 
-- Forum thread: 
+- Forge: https://forge.fantasygrounds.com/shop/items/202/view
+- Forum thread: https://www.fantasygrounds.com/forums/showthread.php?70305-5E-Single-Click-Action
